@@ -56,7 +56,7 @@ from collections import namedtuple
 
 __docformat__ = 'reStructuredText'
 
-__version__ = '0.18b.dev'
+__version__ = '0.17.1'
 """Docutils version identifier (complies with PEP 440)::
 
     major.minor[.micro][releaselevel[serial]][.dev]

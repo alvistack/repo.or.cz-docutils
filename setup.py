@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# $Id$
+# $Id: setup.py 8705 2021-04-17 12:41:26Z grubert $
 # Copyright: This file has been placed in the public domain.
 
 from __future__ import print_function
@@ -31,7 +31,7 @@ into useful formats, such as HTML, XML, and LaTeX.  For
 input Docutils supports reStructuredText, an easy-to-read,
 what-you-see-is-what-you-get plaintext markup syntax.""",  # wrap at col 60
     'url': 'http://docutils.sourceforge.net/',
-    'version': '0.18b.dev',
+    'version': '0.17.1',
     'author': 'David Goodger',
     'author_email': 'goodger@python.org',
     'maintainer': 'docutils-develop list',
