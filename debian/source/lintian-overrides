@@ -1,0 +1,4 @@
+python-docutils source: no-debian-changes
+python-docutils source: source-contains-prebuilt-windows-binary
+python-docutils source: source-is-missing
+python-docutils source: source-package-encodes-python-version

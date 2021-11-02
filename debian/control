@@ -1,0 +1,33 @@
+Source: python-docutils
+Section: python
+Priority: optional
+Standards-Version: 4.5.0
+Maintainer: Wong Hoi Sing Edison <hswong3i@gmail.com>
+Homepage: https://pypi.org/project/docutils/#history
+Vcs-Browser: https://github.com/alvistack/repo.or.cz-docutils
+Vcs-Git: https://github.com/alvistack/repo.or.cz-docutils.git
+Build-Depends:
+ debhelper,
+ debhelper-compat (= 10),
+ dh-python,
+ fdupes,
+ python3-all,
+ python3-dev,
+ python3-setuptools,
+
+Package: python3-docutils
+Architecture: all
+Description: System for processing plaintext documentation
+ The Docutils project specifies a plaintext markup language,
+ reStructuredText, which is easy to read and quick to write. The project
+ includes a python library to parse rST files and transform them into
+ other useful formats such as HTML, XML, and TeX as well as commandline
+ tools that give the enduser access to this functionality. Currently, the
+ library supports parsing rST that is in standalone files and PEPs
+ (Python Enhancement Proposals). Work is underway to parse rST from
+ Python inline documentation modules and packages.
+Depends:
+ ${misc:Depends},
+ ${shlibs:Depends},
+ ${python3:Depends},
+ python3,
