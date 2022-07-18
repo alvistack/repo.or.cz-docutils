@@ -3,9 +3,9 @@
 SHELL := /bin/bash
 
 override_dh_auto_install:
-	dh_auto_install
-	find debian/python3-docutils/usr/lib/python*/*-packages -type f -name '*.pyc' -exec rm -rf {} \;
-	fdupes -s debian/python3-docutils/usr/lib/python*/*-packages
+	dh_auto_install --destdir=debian/tmp
+	find debian/tmp/usr/lib/python*/*-packages -type f -name '*.pyc' -exec rm -rf {} \;
+	fdupes -qnrps debian/tmp/usr/lib/python*/*-packages
 
 override_dh_auto_test:
 

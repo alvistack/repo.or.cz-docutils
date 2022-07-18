@@ -2,7 +2,7 @@
 
 Name: python-docutils
 Epoch: 100
-Version: 0.17.1
+Version: 0.18
 Release: 1%{?dist}
 BuildArch: noarch
 Summary: System for processing plaintext documentation
@@ -34,7 +34,7 @@ tar -zx -f %{S:0} --strip-components=1 -C .
 %install
 %py3_install
 find %{buildroot}%{python3_sitelib} -type f -name '*.pyc' -exec rm -rf {} \;
-%fdupes -s %{buildroot}%{python3_sitelib}
+fdupes -qnrps %{buildroot}%{python3_sitelib}
 
 %check
 
@@ -62,7 +62,7 @@ Python inline documentation modules and packages.
 %files -n python%{python3_version_nodots}-docutils
 %license COPYING.txt
 %{_bindir}/*
-%{python3_sitelib}/docutils*
+%{python3_sitelib}/*
 %endif
 
 %if !(0%{?suse_version} > 1500) && !(0%{?centos_version} == 700)
@@ -89,7 +89,7 @@ Python inline documentation modules and packages.
 %files -n python3-docutils
 %license COPYING.txt
 %{_bindir}/*
-%{python3_sitelib}/docutils*
+%{python3_sitelib}/*
 %endif
 
 %changelog
