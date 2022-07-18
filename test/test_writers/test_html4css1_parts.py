@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-# $Id$
+# $Id: test_html4css1_parts.py 9037 2022-03-05 23:31:10Z milde $
 # Author: reggie dugard <reggie@users.sourceforge.net>
 # Copyright: This module has been placed in the public domain.
 

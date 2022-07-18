@@ -4,7 +4,7 @@ A ReStructuredText Primer
 =========================
 
 :Author: Richard Jones
-:Version: $Revision$
+:Version: $Revision: 9051 $
 :Copyright: This document has been placed in the public domain.
 
 .. contents::

@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# $Id$
+# $Id: test_nodes.py 9067 2022-06-10 11:08:46Z milde $
 # Author: David Goodger <goodger@python.org>
 # Copyright: This module has been placed in the public domain.
 

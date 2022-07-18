@@ -6,8 +6,8 @@
 
 :Author: Engelbert Gruber, Günter Milde
 :Contact: docutils-develop@lists.sourceforge.net
-:Revision: $Revision$
-:Date: $Date$
+:Revision: $Revision: 9069 $
+:Date: $Date: 2022-06-13 14:05:18 +0200 (Mo, 13. Jun 2022) $
 :Copyright: This document has been placed in the public domain.
 :Abstract: This document covers topics specific to Docutils' LaTeX_ export.
 

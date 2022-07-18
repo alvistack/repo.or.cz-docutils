@@ -1,7 +1,7 @@
 PEP: 258
 Title: Docutils Design Specification
-Version: $Revision$
-Last-Modified: $Date$
+Version: $Revision: 8995 $
+Last-Modified: $Date: 2022-01-29 23:26:10 +0100 (Sa, 29. Jän 2022) $
 Author: David Goodger <goodger@python.org>
 Discussions-To: <doc-sig@python.org>
 Status: Rejected

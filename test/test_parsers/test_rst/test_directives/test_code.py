@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-# $Id$
+# $Id: test_code.py 9037 2022-03-05 23:31:10Z milde $
 # Author: Guenter Milde
 # Copyright: This module has been placed in the public domain.
 

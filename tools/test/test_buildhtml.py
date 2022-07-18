@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# $Id$
+# $Id: test_buildhtml.py 9072 2022-06-15 11:31:09Z milde $
 # Author: engelbert gruber <grubert@users.sourceforge.net>
 # Copyright: This module has been placed in the public domain.
 

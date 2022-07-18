@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# $Id$
+# $Id: rst2latex.py 8956 2022-01-20 10:11:44Z milde $
 # Author: David Goodger <goodger@python.org>
 # Copyright: This module has been placed in the public domain.
 

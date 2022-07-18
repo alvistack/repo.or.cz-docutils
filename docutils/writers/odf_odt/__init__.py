@@ -1,4 +1,4 @@
-# $Id$
+# $Id: __init__.py 9072 2022-06-15 11:31:09Z milde $
 # Author: Dave Kuhlman <dkuhlman@davekuhlman.org>
 # Copyright: This module has been placed in the public domain.
 

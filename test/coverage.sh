@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# $Id$
+# $Id: coverage.sh 5539 2008-03-30 09:05:39Z wiemann $
 # Author: Lea Wiemann <LeWiemann@gmail.com>
 # Copyright: This script has been placed in the public domain.
 

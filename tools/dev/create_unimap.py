@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# $Id$
+# $Id: create_unimap.py 9030 2022-03-05 23:28:32Z milde $
 # Author: Lea Wiemann <LeWiemann@gmail.com>
 # Copyright: This file has been placed in the public domain.
 

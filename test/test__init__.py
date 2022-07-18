@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# $Id$
+# $Id: test__init__.py 9037 2022-03-05 23:31:10Z milde $
 # Authors: Günter Milde <milde@users.sf.net>,
 #          David Goodger <goodger@python.org>
 # Copyright: This module has been placed in the public domain.

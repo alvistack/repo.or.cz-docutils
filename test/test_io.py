@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-# $Id$
+# $Id: test_io.py 9097 2022-07-04 21:06:22Z milde $
 # Author: Lea Wiemann <LeWiemann@gmail.com>
 # Copyright: This module has been placed in the public domain.
 

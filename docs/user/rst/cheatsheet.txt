@@ -3,8 +3,8 @@
 =====================================================
 :Info: See <https://docutils.sourceforge.io/rst.html> for introductory docs.
 :Author: David Goodger <goodger@python.org>
-:Date: $Date$
-:Revision: $Revision$
+:Date: $Date: 2022-01-20 11:11:44 +0100 (Do, 20. Jän 2022) $
+:Revision: $Revision: 8956 $
 :Description: This is a "docinfo block", or bibliographic field list
 
 .. NOTE:: If you are reading this as HTML, please read

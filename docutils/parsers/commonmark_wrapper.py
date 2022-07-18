@@ -9,8 +9,8 @@
 #
 # .. _2-Clause BSD license: https://opensource.org/licenses/BSD-2-Clause
 #
-# Revision: $Revision$
-# Date: $Date$
+# Revision: $Revision: 9048 $
+# Date: $Date: 2022-03-29 23:50:15 +0200 (Di, 29. Mär 2022) $
 """
 An interface for parsing CommonMark input.
 

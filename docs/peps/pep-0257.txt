@@ -1,7 +1,7 @@
 PEP: 257
 Title: Docstring Conventions
-Version: $Revision$
-Last-Modified: $Date$
+Version: $Revision: 8956 $
+Last-Modified: $Date: 2022-01-20 11:11:44 +0100 (Do, 20. Jän 2022) $
 Authors: David Goodger <goodger@python.org>,
          Guido van Rossum <guido@python.org>
 Discussions-To: doc-sig@python.org

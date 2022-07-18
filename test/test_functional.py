@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# $Id$
+# $Id: test_functional.py 9077 2022-06-17 11:31:28Z milde $
 # Author: Lea Wiemann <LeWiemann@gmail.com>
 # Copyright: This module has been placed in the public domain.
 

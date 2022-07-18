@@ -1,4 +1,4 @@
-# $Id$
+# $Id: __init__.py 9068 2022-06-13 12:05:08Z milde $
 # Author: Engelbert Gruber, Günter Milde
 # Maintainer: docutils-develop@lists.sourceforge.net
 # Copyright: This module has been placed in the public domain.

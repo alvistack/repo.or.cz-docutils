@@ -1,4 +1,4 @@
-# $Id$
+# $Id: core.py 9089 2022-06-22 08:51:16Z milde $
 # Author: David Goodger <goodger@python.org>
 # Copyright: This module has been placed in the public domain.
 

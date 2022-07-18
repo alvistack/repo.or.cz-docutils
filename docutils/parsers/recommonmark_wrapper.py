@@ -9,8 +9,8 @@
 #
 # .. _2-Clause BSD license: https://opensource.org/licenses/BSD-2-Clause
 #
-# Revision: $Revision$
-# Date: $Date$
+# Revision: $Revision: 9043 $
+# Date: $Date: 2022-03-11 13:09:16 +0100 (Fr, 11. Mär 2022) $
 """
 A parser for CommonMark Markdown text using `recommonmark`__.
 

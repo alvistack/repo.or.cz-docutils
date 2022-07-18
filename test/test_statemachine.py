@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-# $Id$
+# $Id: test_statemachine.py 9032 2022-03-05 23:29:06Z milde $
 # Author: David Goodger <goodger@python.org>
 # Copyright: This module has been placed in the public domain.
 

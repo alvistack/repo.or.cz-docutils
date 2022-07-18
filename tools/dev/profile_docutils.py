@@ -1,6 +1,6 @@
 #!/usr/bin/python3 -i
 
-# $Id$
+# $Id: profile_docutils.py 8925 2022-01-03 23:48:58Z milde $
 # Author: Lea Wiemann <LeWiemann@gmail.com>
 # Copyright: This script has been placed in the public domain.
 

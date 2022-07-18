@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# $Id$
+# $Id: quicktest.py 9047 2022-03-17 13:40:11Z milde $
 # Authors: Garth Kidd <garth@deadlybloodyserious.com>;
 #          David Goodger <goodger@python.org>
 # Copyright: This module has been placed in the public domain.

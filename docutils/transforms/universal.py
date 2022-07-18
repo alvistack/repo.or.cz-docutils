@@ -1,4 +1,4 @@
-# $Id$
+# $Id: universal.py 9037 2022-03-05 23:31:10Z milde $
 # Authors: David Goodger <goodger@python.org>; Ueli Schlaepfer; Günter Milde
 # Maintainer: docutils-develop@lists.sourceforge.net
 # Copyright: This module has been placed in the public domain.

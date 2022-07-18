@@ -1,4 +1,4 @@
-# $Id$
+# $Id: docutils_xml.py 9038 2022-03-05 23:31:46Z milde $
 # Author: David Goodger, Paul Tremblay, Guenter Milde
 # Maintainer: docutils-develop@lists.sourceforge.net
 # Copyright: This module has been placed in the public domain.

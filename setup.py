@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# $Id$
+# $Id: setup.py 9103 2022-07-05 20:04:21Z grubert $
 # Copyright: This file has been placed in the public domain.
 
 import sys

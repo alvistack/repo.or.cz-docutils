@@ -10,7 +10,7 @@
 #
 # .. _2-Clause BSD license: https://opensource.org/licenses/BSD-2-Clause
 
-# :Id: $Id:  $
+# :Id: $Id: test_CLI.py 9072 2022-06-15 11:31:09Z milde $
 
 """
 Test module for the command line interface.

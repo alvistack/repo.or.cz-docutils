@@ -6,8 +6,8 @@
 
 :Author: Engelbert Gruber
 :Contact: docutils-develop@lists.sourceforge.net
-:Revision: $Revision$
-:Date: $Date$
+:Revision: $Revision: 9059 $
+:Date: $Date: 2022-05-30 18:54:24 +0200 (Mo, 30. Mai 2022) $
 :Copyright: This document has been placed in the public domain.
 
 This writer explores the possibilities to generate man-pages from

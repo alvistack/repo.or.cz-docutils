@@ -1,7 +1,7 @@
 #!/bin/sh
 ''''exec python3 -u "$0" "$@" #'''
 
-# $Id$
+# $Id: alltests.py 9072 2022-06-15 11:31:09Z milde $
 # Author: David Goodger <goodger@python.org>
 # Copyright: This module has been placed in the public domain.
 

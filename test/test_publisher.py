@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# $Id$
+# $Id: test_publisher.py 9025 2022-03-04 15:55:47Z milde $
 # Author: Martin Blais <blais@furius.ca>
 # Copyright: This module has been placed in the public domain.
 

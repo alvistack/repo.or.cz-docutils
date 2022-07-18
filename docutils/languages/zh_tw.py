@@ -1,4 +1,4 @@
-# $Id$
+# $Id: zh_tw.py 9030 2022-03-05 23:28:32Z milde $
 # Author: Joe YS Jaw <joeysj@users.sourceforge.net>
 # Copyright: This module has been placed in the public domain.
 

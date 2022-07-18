@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# $Id$
+# $Id: test_parser.py 9047 2022-03-17 13:40:11Z milde $
 # Author: Stefan Rank <strank(AT)strank(DOT)info>
 # Copyright: This module has been placed in the public domain.
 

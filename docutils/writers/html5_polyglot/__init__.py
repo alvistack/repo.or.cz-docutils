@@ -1,4 +1,4 @@
-# $Id$
+# $Id: __init__.py 9057 2022-05-06 10:30:25Z milde $
 # :Author: Günter Milde <milde@users.sf.net>
 #          Based on the html4css1 writer by David Goodger.
 # :Maintainer: docutils-develop@lists.sourceforge.net

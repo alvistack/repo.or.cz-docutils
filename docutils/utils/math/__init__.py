@@ -1,4 +1,4 @@
-# :Id: $Id$
+# :Id: $Id: __init__.py 9026 2022-03-04 15:57:13Z milde $
 # :Author: Guenter Milde.
 # :License: Released under the terms of the `2-Clause BSD license`_, in short:
 #

@@ -2,7 +2,7 @@
  Editor Support for reStructuredText_
 ======================================
 
-:Date: $Date$
+:Date: $Date: 2022-01-20 11:10:45 +0100 (Do, 20. Jän 2022) $
 
 The files in this directory contain support code for reStructuredText
 editing for the following editors:

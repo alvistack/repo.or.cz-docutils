@@ -1,4 +1,4 @@
-# $Id$
+# $Id: __init__.py 9103 2022-07-05 20:04:21Z grubert $
 # Author: David Goodger <goodger@python.org>
 # Copyright: This module has been placed in the public domain.
 

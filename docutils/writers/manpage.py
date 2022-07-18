@@ -1,4 +1,4 @@
-# $Id$
+# $Id: manpage.py 9038 2022-03-05 23:31:46Z milde $
 # Author: Engelbert Gruber <grubert@users.sourceforge.net>
 # Copyright: This module is put into the public domain.
 

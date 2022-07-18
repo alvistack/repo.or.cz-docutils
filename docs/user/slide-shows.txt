@@ -5,7 +5,7 @@
 =================================
 
 :Authors: David Goodger & Chris Liechti
-:Date:    $Date$
+:Date:    $Date: 2022-06-15 13:31:09 +0200 (Mi, 15. Jun 2022) $
 
 .. This document has been placed in the public domain.
 

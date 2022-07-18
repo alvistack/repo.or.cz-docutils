@@ -1,4 +1,4 @@
-# $Id$
+# $Id: standalone.py 8979 2022-01-26 19:05:07Z milde $
 # Author: David Goodger <goodger@python.org>
 # Copyright: This module has been placed in the public domain.
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# $Id: test_pseudoxml.py 8481 2020-01-31 08:17:24Z milde $
+# $Id: test_pseudoxml.py 9037 2022-03-05 23:31:10Z milde $
 # Author: Lea Wiemann <LeWiemann@gmail.com>
 # Copyright: This module has been placed in the public domain.
 

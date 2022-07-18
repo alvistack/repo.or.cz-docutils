@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-# $Id$
+# $Id: test_traversals.py 9038 2022-03-05 23:31:46Z milde $
 # Author: Martin Blais <blais@furius.ca>
 # Copyright: This module has been placed in the public domain.
 

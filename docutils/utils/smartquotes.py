@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# :Id: $Id$
+# :Id: $Id: smartquotes.py 9068 2022-06-13 12:05:08Z milde $
 # :Copyright: © 2010 Günter Milde,
 #             original `SmartyPants`_: © 2003 John Gruber
 #             smartypants.py:          © 2004, 2007 Chad Miller

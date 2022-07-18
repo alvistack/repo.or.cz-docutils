@@ -6,8 +6,8 @@
 
 :Author: David Goodger
 :Contact: docutils-develop@lists.sourceforge.net
-:Date: $Date$
-:Revision: $Revision$
+:Date: $Date: 2022-04-02 23:59:06 +0200 (Sa, 02. Apr 2022) $
+:Revision: $Revision: 9051 $
 :Copyright: This document has been placed in the public domain.
 
 `The Docutils Publisher`_ class was set up to make building
@@ -27,7 +27,7 @@ the ``.py`` extension.
 
 Next are some comments providing metadata::
 
-    # $Id$
+    # $Id: cmdline-tool.txt 9051 2022-04-02 21:59:06Z milde $
     # Author: David Goodger <goodger@python.org>
     # Copyright: This module has been placed in the public domain.
 

@@ -9,8 +9,8 @@
 #
 # .. _2-Clause BSD license: https://opensource.org/licenses/BSD-2-Clause
 #
-# Revision: $Revision$
-# Date: $Date$
+# Revision: $Revision: 9064 $
+# Date: $Date: 2022-06-10 13:08:13 +0200 (Fr, 10. Jun 2022) $
 
 """Generic command line interface for the `docutils` package.
 
