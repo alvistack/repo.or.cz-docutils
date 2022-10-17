@@ -1,3 +1,4 @@
+python-docutils source: file-without-copyright-information
 python-docutils source: no-debian-changes
 python-docutils source: source-contains-prebuilt-windows-binary
 python-docutils source: source-is-missing

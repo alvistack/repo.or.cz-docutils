@@ -1,8 +1,22 @@
+# Copyright 2022 Wong Hoi Sing Edison <hswong3i@pantarei-design.com>
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
 %global debug_package %{nil}
 
 Name: python-docutils
 Epoch: 100
-Version: 0.17.1
+Version: 0.18
 Release: 1%{?dist}
 BuildArch: noarch
 Summary: System for processing plaintext documentation
@@ -34,7 +48,7 @@ tar -zx -f %{S:0} --strip-components=1 -C .
 %install
 %py3_install
 find %{buildroot}%{python3_sitelib} -type f -name '*.pyc' -exec rm -rf {} \;
-%fdupes -s %{buildroot}%{python3_sitelib}
+fdupes -qnrps %{buildroot}%{python3_sitelib}
 
 %check
 
@@ -62,7 +76,7 @@ Python inline documentation modules and packages.
 %files -n python%{python3_version_nodots}-docutils
 %license COPYING.txt
 %{_bindir}/*
-%{python3_sitelib}/docutils*
+%{python3_sitelib}/*
 %endif
 
 %if !(0%{?suse_version} > 1500) && !(0%{?centos_version} == 700)
@@ -89,7 +103,7 @@ Python inline documentation modules and packages.
 %files -n python3-docutils
 %license COPYING.txt
 %{_bindir}/*
-%{python3_sitelib}/docutils*
+%{python3_sitelib}/*
 %endif
 
 %changelog

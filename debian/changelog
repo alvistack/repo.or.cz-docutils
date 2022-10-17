@@ -1,5 +1,5 @@
-python-docutils (100:0.17.1-1) UNRELEASED; urgency=medium
+python-docutils (100:0.18-1) UNRELEASED; urgency=medium
 
-  * https://repo.or.cz/docutils.git/shortlog/refs/tags/docutils-0.17.1
+  * https://repo.or.cz/docutils.git/shortlog/refs/tags/docutils-0.18
 
- -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Sat, 04 Sep 2021 13:02:32 +0800
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Tue, 02 Nov 2021 22:58:18 +0800
