@@ -1,4 +1,4 @@
-# $Id$
+# $Id: nodes.py 9067 2022-06-10 11:08:46Z milde $
 # Author: David Goodger <goodger@python.org>
 # Maintainer: docutils-develop@lists.sourceforge.net
 # Copyright: This module has been placed in the public domain.

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# :Id: $Id$
+# :Id: $Id: latex2mathml.py 9029 2022-03-05 23:27:50Z milde $
 # :Copyright: © 2005 Jens Jørgen Mortensen [1]_
 #             © 2010, 2021 Günter Milde.
 #

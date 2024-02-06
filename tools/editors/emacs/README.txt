@@ -4,7 +4,7 @@
  Emacs Support Files
 =====================
 
-:Date: $Date$
+:Date: $Date: 2022-01-29 23:26:10 +0100 (Sa, 29. Jän 2022) $
 
 This directory contains the following Emacs lisp package files:
 

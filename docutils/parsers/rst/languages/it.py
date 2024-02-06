@@ -1,4 +1,4 @@
-# $Id$
+# $Id: it.py 9022 2022-03-04 15:54:56Z milde $
 # Authors: Nicola Larosa <docutils@tekNico.net>;
 #          Lele Gaifax <lele@seldati.it>
 # Copyright: This module has been placed in the public domain.

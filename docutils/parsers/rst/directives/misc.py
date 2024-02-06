@@ -1,4 +1,4 @@
-# $Id$
+# $Id: misc.py 9048 2022-03-29 21:50:15Z milde $
 # Authors: David Goodger <goodger@python.org>; Dethe Elza
 # Copyright: This module has been placed in the public domain.
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# :Id: $Id$
+# :Id: $Id: tex2mathml_extern.py 9068 2022-06-13 12:05:08Z milde $
 # :Copyright: © 2015 Günter Milde.
 # :License: Released under the terms of the `2-Clause BSD license`_, in short:
 #

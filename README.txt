@@ -4,7 +4,7 @@
 
 :Author: David Goodger
 :Contact: goodger@python.org
-:Date: $Date$
+:Date: $Date: 2022-07-05 22:04:21 +0200 (Di, 05. Jul 2022) $
 :Web site: https://docutils.sourceforge.io/
 :Copyright: This document has been placed in the public domain.
 

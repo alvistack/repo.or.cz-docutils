@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# $Id$
+# $Id: test_error_reporting.py 9068 2022-06-13 12:05:08Z milde $
 # Author: Günter Milde <milde@users.sf.net>
 # Copyright: This module has been placed in the public domain.
 

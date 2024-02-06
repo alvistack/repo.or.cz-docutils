@@ -6,8 +6,8 @@
 
 :Author: Lea Wiemann
 :Contact: docutils-develop@lists.sourceforge.net
-:Date: $Date$
-:Revision: $Revision$
+:Date: $Date: 2022-04-02 23:59:06 +0200 (Sa, 02. Apr 2022) $
+:Revision: $Revision: 9051 $
 :Copyright: This document has been placed in the public domain.
 
 .. _Docutils: https://docutils.sourceforge.io/

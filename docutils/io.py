@@ -1,4 +1,4 @@
-# $Id$
+# $Id: io.py 9100 2022-07-04 21:06:49Z milde $
 # Author: David Goodger <goodger@python.org>
 # Copyright: This module has been placed in the public domain.
 

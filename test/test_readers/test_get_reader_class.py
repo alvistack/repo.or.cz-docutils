@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-# $Id$
+# $Id: test_get_reader_class.py 9038 2022-03-05 23:31:46Z milde $
 # Author: grubert abadger1999
 # Maintainer: docutils-develop@lists.sourceforge.net
 # Copyright: This module has been placed in the public domain.

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# $Id$
+# $Id: test_language.py 9047 2022-03-17 13:40:11Z milde $
 # Authors: Engelbert Gruber <grubert@users.sourceforge.net>;
 #          David Goodger <goodger@python.org>
 # Copyright: This module has been placed in the public domain.

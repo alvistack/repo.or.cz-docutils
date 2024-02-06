@@ -1,4 +1,4 @@
-# $Id$
+# $Id: local-writer.py 9037 2022-03-05 23:31:10Z milde $
 # Author: Engelbert Gruber <grubert@users.sourceforge.net>
 # Copyright: This module is put into the public domain.
 

@@ -9,7 +9,7 @@
 #
 # .. _2-Clause BSD license: https://opensource.org/licenses/BSD-2-Clause
 
-# :Id: $Id$
+# :Id: $Id: generate_punctuation_chars.py 9068 2022-06-13 12:05:08Z milde $
 #
 # ::
 
@@ -40,7 +40,7 @@ import unicodedata
 # ------------------------------------
 
 module_template = r'''#!/usr/bin/env python3
-# :Id: $Id$
+# :Id: $Id: generate_punctuation_chars.py 9068 2022-06-13 12:05:08Z milde $
 # :Copyright: © 2011, 2017 Günter Milde.
 # :License: Released under the terms of the `2-Clause BSD license`_, in short:
 #

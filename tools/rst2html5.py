@@ -9,8 +9,8 @@
 #
 # .. _2-Clause BSD license: https://opensource.org/licenses/BSD-2-Clause
 #
-# Revision: $Revision$
-# Date: $Date$
+# Revision: $Revision: 9021 $
+# Date: $Date: 2022-03-04 16:54:22 +0100 (Fr, 04. Mär 2022) $
 
 """
 A minimal front end to the Docutils Publisher, producing HTML 5 documents.

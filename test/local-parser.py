@@ -1,4 +1,4 @@
-# $Id$
+# $Id: local-parser.py 9026 2022-03-04 15:57:13Z milde $
 # Authors: Engelbert Gruber <grubert@users.sourceforge.net>
 #          Toshio Kuratomi <toshio@fedoraproject.org>
 # Copyright: This module is put into the public domain.

@@ -1,4 +1,4 @@
-# $Id$
+# $Id: local-reader.py 9037 2022-03-05 23:31:10Z milde $
 # Authors: Engelbert Gruber <grubert@users.sourceforge.net>
 #          Toshio Kuratomi <toshio@fedoraproject.org>
 # Copyright: This module is put into the public domain.

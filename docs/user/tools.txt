@@ -6,8 +6,8 @@
 
 :Author: David Goodger
 :Contact: docutils-develop@lists.sourceforge.net
-:Revision: $Revision$
-:Date: $Date$
+:Revision: $Revision: 9082 $
+:Date: $Date: 2022-06-20 12:06:31 +0200 (Mo, 20. Jun 2022) $
 :Copyright: This document has been placed in the public domain.
 
 .. contents::

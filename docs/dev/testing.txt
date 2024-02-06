@@ -7,8 +7,8 @@
 :Authors: Lea Wiemann <LeWiemann@gmail.com>;
           David Goodger <goodger@python.org>;
           Docutils developers <docutils-developers@lists.sourceforge.net>
-:Revision: $Revision$
-:Date: $Date$
+:Revision: $Revision: 9051 $
+:Date: $Date: 2022-04-02 23:59:06 +0200 (Sa, 02. Apr 2022) $
 :Copyright: This document has been placed in the public domain.
 
 .. _Docutils: https://docutils.sourceforge.io/
@@ -139,7 +139,7 @@ look at the following imaginary ``test_square.py``::
 
     #! /usr/bin/env python
 
-    # $Id$
+    # $Id: testing.txt 9051 2022-04-02 21:59:06Z milde $
     # Author: Your Name <your_email_address@example.org>
     # Copyright: This module has been placed in the public domain.
 

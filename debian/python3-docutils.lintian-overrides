@@ -1,0 +1,5 @@
+python3-docutils: copyright-without-copyright-notice
+python3-docutils: initial-upload-closes-no-bugs
+python3-docutils: no-manual-page
+python3-docutils: script-with-language-extension
+python3-docutils: zero-byte-file-in-doc-directory

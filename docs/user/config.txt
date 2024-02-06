@@ -6,8 +6,8 @@
 
 :Author: David Goodger
 :Contact: docutils-develop@lists.sourceforge.net
-:Revision: $Revision$
-:Date: $Date$
+:Revision: $Revision: 9077 $
+:Date: $Date: 2022-06-17 13:31:28 +0200 (Fr, 17. Jun 2022) $
 :Copyright: This document has been placed in the public domain.
 
 .. sidebar:: Docutils Security for Web Applications
